@@ -1,1 +1,1 @@
-const saludo = "Saluda no habla joaco";
+const saludo = "Saluda El Loco";
