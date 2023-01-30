@@ -3,3 +3,5 @@ const Saludo = (nombre?:string):string=> {
 }
 
 Saludo("joaquin")
+
+"otro ascakfjjklnf"
